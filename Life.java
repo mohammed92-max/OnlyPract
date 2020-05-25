@@ -7,5 +7,7 @@ public class Life
 		System.out.println("Life in sea");
 
 		System.out.println("Life is very easy");
+
+		System.out.println("Removed errors");
 	}
 }
